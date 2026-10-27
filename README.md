@@ -1,5 +1,7 @@
 # Real Boxing — POV dengan Pygame + OpenCV
 
+Dzaky Haady - 5024241076
+
 Game boxing arcade bergaya pixel dari sudut pandang orang pertama, dengan ritme pertarungan yang terinspirasi game tinju klasik: baca ancang-ancang, hindari atau tangkis, lalu balas saat lawan terbuka. Game dan preview webcam tampil bersama di **satu jendela Pygame**, sedangkan OpenCV memproses gerakan dari kamera. Proyek ini tidak membutuhkan Panda3D.
 
 ## Setup di Spyder
